@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mahajanapada: Rise of the Maharaja",
+  "description": "An immersive historical strategy game set in early India. Choose your Mahajanapada, manage dynasties, and rule your court through war, diplomacy, and justice based on historical evidence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
